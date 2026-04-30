@@ -1,6 +1,6 @@
 # Fecha y Hora Actual - React App
 
-Una aplicación simple en React que muestra la fecha y hora actual con un hermoso fondo azul degradado.
+Una aplicación simple en React que muestra la fecha y hora actual con un hermoso fondo azul degradado jiji.
 
 ## Características
 
